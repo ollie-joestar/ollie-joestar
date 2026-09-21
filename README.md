@@ -32,8 +32,8 @@ and I still perform as a DJ and saxophonist. Turns out debugging and improvising
 
 ### 🔭 Right now
 
-- [e.g. Open to junior software engineering roles in Vienna or remote]
-- [e.g. Learning more Rust / deploying my projects on my own VPS]
+- Open to junior software engineering roles in Vienna or remote
+- Learning more Rust / deploying my projects on my own VPS
 
 ### 📫 Get in touch
 
