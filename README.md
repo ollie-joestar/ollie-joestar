@@ -25,7 +25,7 @@ and I still perform as a DJ and saxophonist. Turns out debugging and improvising
 
 ### 🚀 Featured projects
 
-- **[Sakura Drift](https://github.com/ollie-joestar/ft_transcendence)**: containerized real-time multiplayer racing game. [▶ Play it live](COMING SOON)
+- **[Sakura Drift](https://github.com/ollie-joestar/sakura_drift)**: containerized real-time multiplayer racing game. [▶ Play it live](COMING SOON)
 - **[minishell](https://github.com/ollie-joestar/minishell)**: a Bash-like Unix shell in C with pipes, redirections, and signal handling
 - **[cub3d](https://github.com/ollie-joestar/cub3d)**: a raycasting 3D engine in C, inspired by Wolfenstein 3D
 - **[philosophers](https://github.com/ollie-joestar/philosophers)**: the dining philosophers problem, solved with threads and mutexes
